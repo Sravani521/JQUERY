@@ -1,0 +1,18 @@
+﻿body
+{
+    background-color:blue;
+    font-family:Verdana;
+    font-size:larger;
+    
+}
+
+.header
+{
+    background-color:blue;
+    color:red;
+}
+#head
+{
+    border:dotted;
+    align-content:center;
+}
